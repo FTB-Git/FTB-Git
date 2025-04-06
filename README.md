@@ -12,8 +12,8 @@ My winding career path has led me to develop a passion for cybersecurity, and I 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/FTB-Git/project-template">Template</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -55,4 +55,5 @@ My winding career path has led me to develop a passion for cybersecurity, and I 
 
 ## Projects
 - Detection Lab
+- <a href="https://github.com/FTB-Git/project-template">Template</a>
 - SOC Automation Project
