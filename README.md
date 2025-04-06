@@ -50,6 +50,7 @@ My winding career path has led me to develop a passion for cybersecurity, and I 
 <img src="https://img.shields.io/badge/-Project%2B-2ECC71?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySA%2B-2C3E50?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-SSCP-7F8C8D?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITILv4%20Foundations-9B59B6?&style=for-the-badge&logo=ITIL&logoColor=white" />
 </div>
 
 ## Projects
